@@ -1,0 +1,67 @@
+baseURL = "http://www.example.com"
+title = "Home"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params] # theme parameters
+    author = "Enrico Mattia Salonia" # Author's name.
+    info = "" # Author's job title or info.
+    description = "Enrico's personal website" # Site description.
+    keywords = "" # Site keywords.
+    avatarurl = "profile.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+  favicon_32 = "jackye.jpg"
+  favicon_16 = "jackye.jpg"
+
+  #footercontent = "Enter a text here."
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+    url = "https://github.com/Enricomattia"
+# Menu links
+[[menu.main]]
+    name = "Research"
+    weight = 1
+    url  = "research"
+[[menu.main]]
+    name = "Teaching"
+    weight = 2
+    url = "teaching"
+#[[menu.main]]
+ #   name = "Blog"
+  #  weight = 3
+  #  url = "post"
+#[[menu.main]]
+ #   name = "CV"
+  #  weight = 4
+  #  url = "bio"

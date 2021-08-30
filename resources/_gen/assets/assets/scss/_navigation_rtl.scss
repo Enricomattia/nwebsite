@@ -1,0 +1,23 @@
+body.rtl {
+  .navigation-list {
+    float: left;
+
+    @media only screen and (max-width: 768px) {
+      left: 0;
+      right: auto;
+    }
+
+    .navigation-item {
+      font-family: "Lucida Bright", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, Helvetica Neue,
+    Helvetica, Arial, sans-serif;
+      float: right;
+    }
+  }
+
+  .menu-button {
+    @media only screen and (max-width: 768px) {
+      float: left;
+    }
+  }
+}
