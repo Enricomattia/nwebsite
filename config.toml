@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
   enableTwemoji = true
 
   colorScheme = "auto"
-  hidecolorschemetoggle = false
+  hidecolorschemetoggle = true
 
   customCSS = ["css/custom.css"]
   #customSCSS = ["scss/custom.scss"]
