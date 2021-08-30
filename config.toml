@@ -14,6 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params] # theme parameters
     author = "Enrico Mattia Salonia" # Author's name.
+
     info = "" # Author's job title or info.
     description = "" # Site description.
     keywords = "" # Site keywords.
