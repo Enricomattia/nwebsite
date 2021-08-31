@@ -1,4 +1,8 @@
 <nav class="navigation">
+  <head>
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  </head>  
   <section class="container">
     <a class="navigation-title" href="{{ .Site.BaseURL | relLangURL }}">
       {{ .Site.Title }}
