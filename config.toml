@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
-googleAnalytics = "G-GX248JTXG8"
+googleAnalytics = "G-J54HJ5FRD8"
 
 [params] # theme parameters
     author = "Enrico Mattia Salonia" # Author's name.
