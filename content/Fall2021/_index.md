@@ -9,7 +9,7 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 They are coming! If you want you can check the preliminary plan for the lectures [here](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/Plan_20212022.pdf).
 
-[//]: <> ([TD1](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_1.pdf))
+[TD1](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_1.pdf)
 
 [//]: <> ([TD2](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_2.pdf))
 
