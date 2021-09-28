@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Enrico Mattia Salonia"
+title = "Home"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
