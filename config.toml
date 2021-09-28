@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Home"
+title = "Enrico Mattia Salonia"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -17,7 +17,7 @@ googleAnalytics = "G-J54HJ5FRD8"
     author = "Enrico Mattia Salonia" # Author's name.
 
     info = "" # Author's job title or info.
-    description = "" # Site description.
+    description = "Welcome to my website!" # Site description.
     keywords = "" # Site keywords.
     avatarurl = "profile.jpg" # Contain the path of the optionnal avatar in the static folder.
 
