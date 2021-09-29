@@ -16,9 +16,9 @@ googleAnalytics = "G-J54HJ5FRD8"
 [params] # theme parameters
     author = "Enrico Mattia Salonia" # Author's name.
 
-    info = "" # Author's job title or info.
+    info = "Enrico Mattia Salonia" # Author's job title or info.
     description = "Welcome to my website!" # Site description.
-    keywords = "" # Site keywords.
+    keywords = "Enrico Mattia Salonia" # Site keywords.
     avatarurl = "profile.jpg" # Contain the path of the optionnal avatar in the static folder.
 
   favicon_32 = "jackye.jpg"
