@@ -7,7 +7,7 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 ### Lectures
 
-There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the plan for the lectures [here](https://drive.google.com/file/d/1Zgy1OGDxh2jic7rrwyfPDzayR1FckdFm/view?usp=sharing).
+There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/17XXMU_QWX_qrOJv9Nf1H_X7ZqFOyM4z-/view?usp=sharing) for the lectures (NEW! 30/09/2021).
 
 [TD1 - (Online view)](https://enricomattia.github.io/TDs/TD1.html) [(Pdf Download)](https://drive.google.com/file/d/1PX_IWlARsWwLeQpC5L6Gp6R4LquJHs-9/view?usp=sharing)
 
