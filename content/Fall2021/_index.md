@@ -13,7 +13,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD2 - (Online view)](https://enricomattia.github.io/TDs/TD2.html) [(Pdf Download)](https://drive.google.com/file/d/1-GBxNWOLx_mruENbpD6uu6PQ6figfa-G/view?usp=sharing)
 
-[//]: <> ([TD2](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_2.pdf))
+[TD3 - (Online view)](https://enricomattia.github.io/TDs/TD3.html) [(Pdf Download)](https://drive.google.com/file/d/1qnVCYnU4JLgzvRCK0sT9-C7g9DqoAhW0/view?usp=sharing)
 
 [//]: <> ([TD3](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_3.pdf))
 
