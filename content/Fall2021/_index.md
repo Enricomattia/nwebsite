@@ -15,7 +15,8 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD3 - (Online view)](https://enricomattia.github.io/TDs/TD3.html) [(Pdf Download)](https://drive.google.com/file/d/1qnVCYnU4JLgzvRCK0sT9-C7g9DqoAhW0/view?usp=sharing)
 
-[//]: <> ([TD3](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_3.pdf))
+[TD4 - (Online view)](https://enricomattia.github.io/TDs/TD4.html) [(Pdf Download)](https://drive.google.com/file/d/12fUC9pHw9REIkOBJdka6DqoKBZ38Sjlo/view?usp=sharing)
+
 
 [//]: <> ([TD4](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_4.pdf))
 
