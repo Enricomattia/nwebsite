@@ -21,8 +21,8 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD6 - (Online view)](https://enricomattia.github.io/TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing)
 
+[TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
 
-[//]: <> ([TD7](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_7.pdf))
 
 [//]: <> ([TD8](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_8.pdf))
 
