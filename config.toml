@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Home"
+title = "Enrico Mattia Salonia"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -32,7 +32,7 @@ googleAnalytics = "G-J54HJ5FRD8"
 
   enableTwemoji = true
 
-  colorScheme = "auto"
+  colorScheme = "white"
   hidecolorschemetoggle = true
 
   customCSS = ["css/custom.css"]
