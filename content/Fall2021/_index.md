@@ -3,7 +3,9 @@ title: "Topics in Macro - Fall 2021"
 draft: false
 ---
 
-Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extra that could be useful. Contact me if you have any question!
+Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!
+
+_**ANNOUNCEMENT**_ : In the next TD session (16-17 November) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good study!
 
 ### Lectures
 
