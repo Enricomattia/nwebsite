@@ -7,6 +7,8 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 _**ANNOUNCEMENT**_ : In the next TD session (16-17 November) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good study!
 
+_**ANNOUNCEMENT 2**_ : I put in the extra section below the solutions to the 2020 midterm.
+
 ### Lectures
 
 There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/17XXMU_QWX_qrOJv9Nf1H_X7ZqFOyM4z-/view?usp=sharing) for the lectures (NEW! 30/09/2021).
@@ -40,6 +42,8 @@ If you click on the link below, you can find some codes that solve and plot the 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/HEAD?filepath=solow-swan.ipynb)
 
+Here you can find the solutions to the 2020 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it!
 
+[Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing)
 
 
