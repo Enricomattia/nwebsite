@@ -9,6 +9,9 @@ _**ANNOUNCEMENT**_ : In the next TD session (16-17 November) I will spend the fi
 
 _**ANNOUNCEMENT 2**_ : I put in the extra section below the solutions to the 2020 midterm.
 
+_**ANNOUNCEMENT 3**_ : I put in the extra section below the solutions to the Baby boom exercise of the 2019 midterm.
+
+
 ### Lectures
 
 There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/17XXMU_QWX_qrOJv9Nf1H_X7ZqFOyM4z-/view?usp=sharing) for the lectures (NEW! 30/09/2021).
@@ -42,8 +45,13 @@ If you click on the link below, you can find some codes that solve and plot the 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/HEAD?filepath=solow-swan.ipynb)
 
-Here you can find the solutions to the 2020 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it!
+Here you can find the solutions to the 2020 and 2019 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it!
 
 [Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing)
+
+[Baby boom](https://drive.google.com/file/d/1rHf8e_8WRqNfS-1QuBd-d1_GCsmbRszR/view?usp=sharing)
+
+
+
 
 
