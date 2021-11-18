@@ -14,7 +14,7 @@ _**ANNOUNCEMENT 3**_ : I put in the extra section below the solutions to the Bab
 
 ### Lectures
 
-There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/17XXMU_QWX_qrOJv9Nf1H_X7ZqFOyM4z-/view?usp=sharing) for the lectures (NEW! 30/09/2021).
+There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/1cZ2B_rIKHLPnYMgHZLI6U5iPK1Je_Y-j/view?usp=sharing) for the lectures **(NEW! 18/11/2021)**.
 
 [TD1 - (Online view)](https://enricomattia.github.io/TDs/TD1.html) [(Pdf Download)](https://drive.google.com/file/d/1PX_IWlARsWwLeQpC5L6Gp6R4LquJHs-9/view?usp=sharing)
 
@@ -30,8 +30,9 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
 
+[TD8 - (Online view)](https://enricomattia.github.io/TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
 
-[//]: <> ([TD8](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_8.pdf))
+
 
 [//]: <> ([TD9](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_9.pdf))
 
