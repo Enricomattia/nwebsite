@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "enrico-mattia-salonia"
 googleAnalytics = "G-J54HJ5FRD8"
 
 [params] # theme parameters
@@ -61,8 +61,8 @@ googleAnalytics = "G-J54HJ5FRD8"
     url = "teaching"
 #[[menu.main]]
  #   name = "Blog"
-  #  weight = 3
-  #  url = "post"
+ #  weight = 3
+ #   url = "post"
 #[[menu.main]]
  #   name = "CV"
   #  weight = 4

@@ -10,8 +10,11 @@
 
     <section class="blogpost">
 
-
     {{ .Content }}
+
+    {{ template "_internal/disqus.html" . }}
+
+
 
   </section>
 
