@@ -11,6 +11,9 @@ _**ANNOUNCEMENT 2**_ : I put in the extra section below the solutions to the 202
 
 _**ANNOUNCEMENT 3**_ : I put in the extra section below the solutions to the Baby boom exercise of the 2019 midterm.
 
+_**ANNOUNCEMENT 4**_ : In the last session I will skip exercise 4 from td 4. I put the solutions below.
+
+
 
 ### Lectures
 
@@ -32,13 +35,9 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD8 - (Online view)](https://enricomattia.github.io/TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
 
+[TD9 - (Online view)](https://enricomattia.github.io/TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
 
-
-[//]: <> ([TD9](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_9.pdf))
-
-[//]: <> ([TD10](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/TD_10.pdf))
-
-[//]: <> ([Merged](https://docs.google.com/viewer?url=https://github.com/Enricomattia/TopicsInMacro1TD/raw/main/lectures/Merged.pdf))
+[Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
 
 ### Extras
 
