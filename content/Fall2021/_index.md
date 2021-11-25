@@ -37,6 +37,8 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD9 - (Online view)](https://enricomattia.github.io/TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
 
+[TD10 - (Online view)](https://enricomattia.github.io/TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
+
 [Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
 
 ### Extras
