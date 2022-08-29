@@ -11,10 +11,9 @@ Here you can find a list of my ongoing work! [Here](https://enricomattia.github.
 
 __A Foundation for Universalisation in Games__
 
-
 {{<hideuni>}}
 
-__On Redistribution Choices: AltIncentives, and Beliefs__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+__On Redistribution Choices: Altruism, Incentives, and Beliefs__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
 ##### For Fun (?)
 ---
