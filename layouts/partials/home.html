@@ -1,38 +1,65 @@
-<div style="width: 50%; float:left">
+<div style="width: 50%; float: left">
   <div class="about">
     <div class="centeredbrosx">
-    {{ with .Site.Params.avatarurl }}
-      <div class="avatar"><img src="{{ . | absURL }}" alt="avatar"></div>
-    {{ end }}
-    <!-- <h1 style="text-align:center"><u>{{ .Site.Params.author }}</u></h1>-->
-    <h1 style="text-align:center">Enrico Mattia</h1>
-    <h1 style="text-align:center">Salonia</h1>
-    <h6 style="text-align:center">{{ .Site.Params.info }}</h6>
-  </div>
+      {{ with .Site.Params.avatarurl }}
+      <div class="avatar">
+        <img
+          style="border-radius: 10px / 5px"
+          src="{{ . | absURL }}"
+          alt="avatar"
+        />
+      </div>
+      {{ end }}
+      <!-- <h1 style="text-align:center"><u>{{ .Site.Params.author }}</u></h1>-->
+      <h1 style="text-align: center">Enrico Mattia</h1>
+      <h1 style="text-align: center">Salonia</h1>
+      <h6 style="text-align: center">{{ .Site.Params.info }}</h6>
+    </div>
   </div>
 </div>
 
-
-<div style="width: 50%; float:right">
+<div style="width: 50%; float: right">
   <div class="about">
-   <div class="centeredbrodx">
-    <h5>Welcome</h5>
-    <p>I am a PhD student at <a href="https://www.tse-fr.eu/?lang=en" target="_blank">TSE</a>.</p>
-    <p>My main interests are in economic theory and behavioral economics.</p>
-    <p>Feel free to check my <a href="./statement/">Research Statement</a> if you are interested.</p>
-    <p>A copy of my CV is <a href="https://drive.google.com/file/d/16vEUj2dO5tyEzVxj-XBWeLct9q5iuXV2/view?usp=sharing">here</a>.</p>
-    <p>You can contact me at <b>mattia.salonia@tse-fr</b> or at <b>mattia.salonia1@gmail.com</b>.</p>
-    {{ with .Site.Params.social }}
-      {{ range sort . "weight"}}
-          <a class="logo" href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }}>
-            {{ if .icon }}
-              <i class="{{ .icon }}" aria-hidden="true"></i>
-            {{ else }}
-              {{ .name }}
-            {{ end }}
-          </a>
-      {{ end }}
-    {{ end }}
+    <div class="centeredbrodx">
+      <h5>Welcome</h5>
+      <p>
+        I am a PhD student at
+        <a href="https://www.tse-fr.eu/?lang=en" target="_blank">TSE</a>.
+      </p>
+      <p>My main interests are in economic theory and behavioral economics.</p>
+      <p>
+        Feel free to check my <a href="./statement/">Research Statement</a> if
+        you are interested.
+      </p>
+      <p>
+        A copy of my CV is
+        <a
+          href="https://drive.google.com/file/d/16vEUj2dO5tyEzVxj-XBWeLct9q5iuXV2/view?usp=sharing"
+          >here</a
+        >.
+      </p>
+      <p>
+        You can contact me at <b>mattia.salonia@tse-fr</b> or at
+        <b>mattia.salonia1@gmail.com</b>.
+      </p>
+      {{ with .Site.Params.social }} {{ range sort . "weight"}}
+      <a
+        class="logo"
+        href="{{ .url }}"
+        aria-label="{{ .name }}"
+        {{
+        if
+        .rel
+        }}rel="{{ .rel }}"
+        {{
+        end
+        }}
+      >
+        {{ if .icon }}
+        <i class="{{ .icon }}" aria-hidden="true"></i>
+        {{ else }} {{ .name }} {{ end }}
+      </a>
+      {{ end }} {{ end }}
     </div>
   </div>
 </div>
