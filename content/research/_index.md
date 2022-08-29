@@ -9,15 +9,15 @@ Here you can find a list of my ongoing work! [Here](https://enricomattia.github.
 ##### Work in Progress
 ---
 
-A couple of works are in preparation...
-
 __A Foundation for Universalisation in Games__
 _Abstract_: According to revealed preference theory, the choice of a decision maker "reveals" his tastes over possible outcomes. However, if an act is prescribed by a moral principle for reasons unrelated to the consequences it induces, the inference drawn regarding preferences is misleading. In this paper, I study the behaviour of deontological decision makers who follow the moral principle of universalisation. I develop a decision theory according to which agents value the impact of their choice in determining a counterfactual outcome they envision. Hence, an action can be interpreted as revealing a preference for counterfactual outcomes. I show that I can specify my framework to obtain the most prominent models of universalisation, compare them and highlight their limitations. I propose a unifying model of universalisation based on my decision theoretic framework that arguably overcomes these limitations.
 
-__On Redistribution Choices behind the Veil of Ignorance__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+{{<hide>}}
+
+__On Redistribution Choices: AltIncentives, and Beliefs__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
 ##### For Fun (?)
-
+---
 
 __Redistribution of Freedom: A formal approach__ (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
 
