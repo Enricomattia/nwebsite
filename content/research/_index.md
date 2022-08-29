@@ -15,10 +15,14 @@ __A Foundation for Universalisation in Games__
 
 __On Redistribution Choices: Altruism, Incentives, and Beliefs__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
+{{<hidevoi>}}
+
 ##### For Fun (?)
 ---
 
 __Redistribution of Freedom: A formal approach__ (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+
+{{<hidefreedom>}}
 
 ##### Book Review
 ---
