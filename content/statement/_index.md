@@ -6,6 +6,8 @@ draft: false
 
 In preparation...
 
+{{<hideuni>}}
+
 [//]: <> (I am interested in many topics at the boundaries of Economics and Philosophy. In particular, In my research I study normative criteria for evaluating institutions, especially their redistributive foundations.)
 
 [//]: <> (Related to these topics, I am also interested in the foundation of Economic Theory. In fact, understanding how interactive situations unravels is the basis to evaluate the outcome of an institutions, and therefore its desirability.)
