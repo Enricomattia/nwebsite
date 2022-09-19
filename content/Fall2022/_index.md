@@ -8,7 +8,7 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 ### Lectures
 
-There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/1cZ2B_rIKHLPnYMgHZLI6U5iPK1Je_Y-j/view?usp=sharing) for the lectures.
+There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/1uzwyoeME5_vJwNKxlbkXk3x5iij3ICOI/view?usp=sharing) for the lectures.
 
 Coming soon... ;)
 
