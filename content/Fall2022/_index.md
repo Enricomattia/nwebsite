@@ -12,7 +12,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD1 - (Online view)](https://enricomattia.github.io/TDs/TD1.html) [(Pdf Download)](https://drive.google.com/file/d/1PX_IWlARsWwLeQpC5L6Gp6R4LquJHs-9/view?usp=sharing)
 
-<!-- [TD2 - (Online view)](https://enricomattia.github.io/TDs/TD2.html) [(Pdf Download)](https://drive.google.com/file/d/1-GBxNWOLx_mruENbpD6uu6PQ6figfa-G/view?usp=sharing) -->
+[TD2 - (Online view)](https://enricomattia.github.io/TDs/TD2.html) [(Pdf Download)](https://drive.google.com/file/d/1-GBxNWOLx_mruENbpD6uu6PQ6figfa-G/view?usp=sharing)
 
 <!-- [TD3 - (Online view)](https://enricomattia.github.io/TDs/TD3.html) [(Pdf Download)](https://drive.google.com/file/d/1qnVCYnU4JLgzvRCK0sT9-C7g9DqoAhW0/view?usp=sharing) -->
 
