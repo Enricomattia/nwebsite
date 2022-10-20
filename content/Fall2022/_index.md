@@ -6,7 +6,7 @@ draft: false
 Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!
 
 
-_**ANNOUNCEMENT**_ : In the sixth TD session (25-26 October) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good study!
+_**ANNOUNCEMENT**_ : In the seventh TD session (the week of the 7th of November) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good luck!
 
 ### Lectures
 
@@ -20,7 +20,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD4 - (Online view)](https://enricomattia.github.io/TDs/TD4.html) [(Pdf Download)](https://drive.google.com/file/d/12fUC9pHw9REIkOBJdka6DqoKBZ38Sjlo/view?usp=sharing)
 
-<!-- [TD5 - (Online view)](https://enricomattia.github.io/TDs/TD5.html) [(Pdf Download)](https://drive.google.com/file/d/1E2Nse5W2-wEB_zMGsb-H8IbMClY6wpWT/view?usp=sharing) -->
+[TD5 - (Online view)](https://enricomattia.github.io/TDs/TD5.html) [(Pdf Download)](https://drive.google.com/file/d/1E2Nse5W2-wEB_zMGsb-H8IbMClY6wpWT/view?usp=sharing)
 
 <!-- [TD6 - (Online view)](https://enricomattia.github.io/TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing) -->
 
