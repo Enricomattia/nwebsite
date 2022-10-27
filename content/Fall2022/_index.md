@@ -22,7 +22,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD5 - (Online view)](https://enricomattia.github.io/TDs/TD5.html) [(Pdf Download)](https://drive.google.com/file/d/1E2Nse5W2-wEB_zMGsb-H8IbMClY6wpWT/view?usp=sharing)
 
-<!-- [TD6 - (Online view)](https://enricomattia.github.io/TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing) -->
+[TD6 - (Online view)](https://enricomattia.github.io/TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing)
 
 <!-- [TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing) -->
 
