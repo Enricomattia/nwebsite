@@ -24,7 +24,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD6 - (Online view)](https://enricomattia.github.io/TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing)
 
-<!-- [TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing) -->
+[TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
 
 <!-- [TD8 - (Online view)](https://enricomattia.github.io/TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing) -->
 
