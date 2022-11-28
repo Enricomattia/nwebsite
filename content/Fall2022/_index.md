@@ -6,6 +6,8 @@ draft: false
 Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!
 
 
+_**ANNOUNCEMENT**_ : In the last TD Lecture I wil do this exercise on the Malthus model. I will post the solutions here after the lectures. I also uploaded the solutions for the exercises for the overlapping generation part of the class that you were unable to do. I will also post soon solutions for the exercise on Easter Island with a tipping point. I added some extra below.
+
 _**ANNOUNCEMENT**_ : In the seventh TD session (the week of the 7th of November) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good luck!
 
 ### Lectures
@@ -26,13 +28,15 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD7 - (Online view)](https://enricomattia.github.io/TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
 
-<!-- [TD8 - (Online view)](https://enricomattia.github.io/TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing) -->
+[TD8 - (Online view)](https://enricomattia.github.io/TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
 
-<!-- [TD9 - (Online view)](https://enricomattia.github.io/TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing) -->
+[TD9 - (Online view)](https://enricomattia.github.io/TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
 
-<!-- [TD10 - (Online view)](https://enricomattia.github.io/TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing) -->
+[TD10 - (Online view)](https://enricomattia.github.io/TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
 
-<!--[Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing) -->
+[Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/EX4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
+
+[A Solarian Malthus Model - Online view](https://enricomattia.github.io/TDs/Solaria.html) [Pdf Download](https://drive.google.com/file/d/1Ys1Q216Z14bfMp_GOtHEpD8gV_5wDq92/view?usp=sharing)
 
 ### Extras
 
@@ -40,11 +44,11 @@ If you click on the link below, you can find some codes that solve and plot the 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/HEAD?filepath=solow-swan.ipynb)
 
-<!-- Here you can find the solutions to the 2020 and 2019 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it! -->
+Here you can find the solutions to the 2020 and 2019 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it!
 
-<!-- [Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing) -->
+[Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing)
 
-<!-- [Baby boom](https://drive.google.com/file/d/1rHf8e_8WRqNfS-1QuBd-d1_GCsmbRszR/view?usp=sharing) -->
+[Baby boom](https://drive.google.com/file/d/1rHf8e_8WRqNfS-1QuBd-d1_GCsmbRszR/view?usp=sharing)
 
 
 
