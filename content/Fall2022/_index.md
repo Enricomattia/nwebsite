@@ -6,7 +6,7 @@ draft: false
 Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!
 
 
-_**ANNOUNCEMENT**_ : In the last TD Lecture I will do [this](https://enricomattia.github.io/TDs/Solaria.html) exercise on the Malthus model. I will post the solutions here after the lectures. I also uploaded the solutions for the exercises for the overlapping generation part of the class that you were unable to do. I will also post soon solutions for the exercise on Easter Island with a tipping point. I added some extra below.
+_**ANNOUNCEMENT**_ : In the last TD Lecture I will do [this](https://enricomattia.github.io/TDs/Solaria.html) exercise on the Malthus model. I will post the solutions here after the lectures. I uploaded solutions for the overlapping generation part of the class that you were unable to do. I will also post soon solutions for the exercise on Easter Island with a tipping point. Lastly, I added some extra below.
 
 _**ANNOUNCEMENT**_ : In the seventh TD session (the week of the 7th of November) I will spend the first part of the lecture answering your questions about the material for the midterm. After you complete asking questions, I will start covering the material of the TD in the plan below. I will answer questions for a maximum of 45 minutes. Hence at least half of the lecture will be devoted to the TD material. As usual, I am available to organise meetings outside the lecture to answer your questions. Good luck!
 
@@ -34,7 +34,7 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [TD10 - (Online view)](https://enricomattia.github.io/TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
 
-[Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/EX4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
+[Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
 
 [A Solarian Malthus Model - (Online view)](https://enricomattia.github.io/TDs/Solaria.html) [Pdf Download](https://drive.google.com/file/d/1Ys1Q216Z14bfMp_GOtHEpD8gV_5wDq92/view?usp=sharing)
 
