@@ -36,7 +36,9 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 [Ex 4 - TD 4 - (Online view)](https://enricomattia.github.io/TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
 
-[A Solarian Malthus Model - (Online view)](https://enricomattia.github.io/TDs/Solaria.html) [Pdf Download](https://drive.google.com/file/d/1Ys1Q216Z14bfMp_GOtHEpD8gV_5wDq92/view?usp=sharing)
+[A Solarian Malthus Model - (Online view)](https://enricomattia.github.io/TDs/SolariaSOL.html) [Pdf Download](https://drive.google.com/file/d/1I2DMulWABztOxHOKLuas-n96Ov5NTngb/view?usp=share_link)
+
+[Easter Island with tipping point - (Online view)](https://enricomattia.github.io/TDs/SolariaSOL.html) [Pdf Download](https://drive.google.com/file/d/1I2DMulWABztOxHOKLuas-n96Ov5NTngb/view?usp=share_link)
 
 ### Extras
 
