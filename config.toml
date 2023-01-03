@@ -19,13 +19,13 @@ googleAnalytics = "G-J54HJ5FRD8"
     info = "" # Author's job title or info.
     description = "Welcome to my website!" # Site description.
     keywords = "" # Site keywords.
-    avatarurl = "profile.webp" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "profile-min.webp" # Contain the path of the optionnal avatar in the static folder.
 
   favicon_32 = "jackye.jpg"
   favicon_16 = "jackye.jpg"
 
   #footercontent = "Enter a text here."
-  hideFooter = false
+  hideFooter = true
   hideCredits = false
   hideCopyright = false
   # since = 2021
@@ -60,10 +60,10 @@ googleAnalytics = "G-J54HJ5FRD8"
     weight = 2
     url = "teaching"
 #[[menu.main]]
- #   name = "Blog"
- #  weight = 3
- #   url = "post"
-#[[menu.main]]
- #   name = "CV"
-  #  weight = 4
-  #  url = "bio"
+#    name = "Blog"
+#  weight = 3
+#    url = "post"
+[[menu.main]]
+    name = "CV"
+    weight = 3
+    url = "https://drive.google.com/file/d/16vEUj2dO5tyEzVxj-XBWeLct9q5iuXV2/view"
