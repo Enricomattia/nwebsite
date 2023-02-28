@@ -7,36 +7,42 @@ draft: false
 Here you can find a list of my ongoing work! [Here](https://enricomattia.github.io/statement/) you can find my research statement.
 
 ##### Work in Progress
+
 ---
 
-__A Foundation for Universalisation in Games__
+**A Foundation for Universalisation in Games**
+
+[comment]: <> (![drawing](dream_TradingCard.jg))
 
 {{<hideuni>}}
 
-__On Redistribution Choices: Altruism, Incentives, and Beliefs__ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+**On Redistribution Choices: Altruism, Incentives, and Beliefs** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
 {{<hidevoi>}}
 
 ##### For Fun (?)
+
 ---
 
-__Redistribution of Freedom: A formal approach__ (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+**Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
 
 {{<hidefreedom>}}
 
 ##### Book Review
+
 ---
 
-[__Review of Ivan Moscati’s Measuring Utility: From the Marginal Revolution to Behavioral Economics__](https://ejpe.org/journal/article/view/469/337)
- (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+[**Review of Ivan Moscati’s Measuring Utility: From the Marginal Revolution to Behavioral Economics**](https://ejpe.org/journal/article/view/469/337)
+(with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
 
 _Erasmus Journal for Philosophy and Economics_ (2020)
 
-##### Young and Fool
+##### Young and Foolish
+
 ---
 
-When I was younger (and much fooler) I wrote a couple of pieces for various reasons. Although these are poorly written and hardly rigorous, I find that the ideas were nice and I might polish and rewrite them in the future.
+When I was younger (and more foolish) I wrote a couple of pieces for various reasons. Although these are poorly written and hardly rigorous, I believe the ideas were intriguing and I might polish and rewrite them in the future.
 
-[__Magic the Gathering: economic analysis of the market of a collectible card game__](https://drive.google.com/file/d/15yPA-a-yTn5jF90XFUiu9AZ7T88ubzlS/view?usp=sharing)
+[**Magic the Gathering: economic analysis of the market of a collectible card game**](https://drive.google.com/file/d/15yPA-a-yTn5jF90XFUiu9AZ7T88ubzlS/view?usp=sharing)
 
-[__Praxeology, Psychohistory, Economics__](https://drive.google.com/file/d/1wC50V4HI6mnFPW1gmyGW6v0mHXF-Tde_/view?usp=sharing)
+[**Praxeology, Psychohistory, Economics**](https://drive.google.com/file/d/1wC50V4HI6mnFPW1gmyGW6v0mHXF-Tde_/view?usp=sharing)
