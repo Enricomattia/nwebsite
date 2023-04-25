@@ -4,7 +4,7 @@ date: 2021-05-14T15:49:18+02:00
 draft: false
 ---
 
-Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!
+Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any questions!
 
 
 _**ANNOUNCEMENT**_ : In the last TD Lecture I will do [this](../TDs/Solaria.html) exercise on the Malthus model. I will post the solutions here after the lectures. I uploaded solutions for the overlapping generation part of the class that you were unable to do. I will also post soon solutions for the exercise on Easter Island with a tipping point. Lastly, I added some extra below.
@@ -13,7 +13,7 @@ _**ANNOUNCEMENT**_ : In the seventh TD session (the week of the 7th of November)
 
 ### Lectures
 
-There could be mistakes, use the official solutions as a reference! Fell free to point out any typos, mistakes, answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/1uzwyoeME5_vJwNKxlbkXk3x5iij3ICOI/view?usp=sharing) for the lectures.
+There could be mistakes, use the official solutions as a reference! Feel free to point out any typos, mistakes, or answers that are not clear. If you want you can check the [plan](https://drive.google.com/file/d/1uzwyoeME5_vJwNKxlbkXk3x5iij3ICOI/view?usp=sharing) for the lectures.
 
 [TD1 - (Online view)](../post/TD1) [(Pdf Download)](https://drive.google.com/file/d/1PX_IWlARsWwLeQpC5L6Gp6R4LquJHs-9/view?usp=sharing)
 
@@ -43,11 +43,11 @@ There could be mistakes, use the official solutions as a reference! Fell free to
 
 ### Extras
 
-If you click on the link below, you can find some codes that solve and plot the Solow-Swan model! I tried to make it as straightforward as possible by including instructions. Just click on the link and see if you are able to play around with the code. Good luck!
+If you click on the link below, you can find some codes that solve and plot the Solow-Swan model! I tried to make it as straightforward as possible by including instructions. Just click on the link and see if you can play around with the code. Good luck!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/HEAD?filepath=solow-swan.ipynb)
 
-Here you can find the solutions to the 2020 and 2019 midterm. However, I strongly suggest you to focus on the class and TD material before attempting it!
+Here you can find the solutions to the 2020 and 2019 midterms. However, I strongly suggest you focus on the class and TD material before attempting it!
 
 [Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing)
 
