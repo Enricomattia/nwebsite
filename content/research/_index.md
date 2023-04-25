@@ -16,7 +16,7 @@ Here you can find a list of my ongoing work! [Here](https://enricomattia.github.
 
 {{<hideuni>}}
 
-**On Redistribution Choices: Altruism, Incentives, and Beliefs** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
 {{<hidevoi>}}
 
