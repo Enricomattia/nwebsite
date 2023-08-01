@@ -4,7 +4,7 @@ date: 2021-05-20T22:23:00+02:00
 draft: false
 ---
 
-In preparation...
+Coming Soon!
 
 [//]: <> (I am interested in many topics at the boundaries of Economics and Philosophy. In particular, In my research I study normative criteria for evaluating institutions, especially their redistributive foundations.)
 

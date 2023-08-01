@@ -4,7 +4,7 @@ date: 2021-05-13T19:03:08+02:00
 draft: false
 ---
 
-Here you can find a list of my ongoing work! [Here](https://enricomattia.github.io/statement/) you can find my research statement.
+Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.com/statement/) you can find my research statement.
 
 ##### Work in Progress
 
@@ -20,13 +20,10 @@ Here you can find a list of my ongoing work! [Here](https://enricomattia.github.
 
 {{<hidevoi>}}
 
-##### For Fun (?)
+**Robustness to Normative Uncertaintt** 
 
----
+{{<hidenormative>}}
 
-**Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
-
-{{<hidefreedom>}}
 
 ##### Book Review
 
@@ -36,6 +33,16 @@ Here you can find a list of my ongoing work! [Here](https://enricomattia.github.
 (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
 
 _Erasmus Journal for Philosophy and Economics_ (2020)
+
+
+##### Old and Dormant
+
+---
+
+**Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+
+{{<hidefreedom>}}
+
 
 ##### Young and Foolish
 

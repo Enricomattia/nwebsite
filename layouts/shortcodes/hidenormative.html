@@ -1,0 +1,30 @@
+<small
+  ><u
+    ><p><em onclick="myFunction()" id="abstract" style="cursor: pointer"
+      >→ Abstract</em
+    ></u
+  ></p></small
+>
+
+<small
+  ><div
+    id="myDIV"
+    style="display: none; text-align: justify; text-justify: inter-word"
+  >
+    <p>Coming soon!</p>
+  </div></small
+>
+
+<script type="text/javascript">
+  function myFunction() {
+    var x = document.getElementById("myDIV");
+    var y = document.getElementById("abstract");
+    if (x.style.display === "none") {
+      y.innerHTML = "↓ Abstract";
+      x.style.display = "block";
+    } else {
+      y.innerHTML = "→ Abstract";
+      x.style.display = "none";
+    }
+  }
+</script>
