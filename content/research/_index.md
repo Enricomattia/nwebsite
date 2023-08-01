@@ -20,7 +20,7 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 {{<hidevoi>}}
 
-**Robustness to Normative Uncertaintt** 
+**Robustness to Normative Uncertainty** 
 
 {{<hidenormative>}}
 
