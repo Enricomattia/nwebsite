@@ -6,24 +6,23 @@ draft: false
 
 Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.com/statement/) you can find my research statement.
 
-##### Work in Progress
-
 ---
 
-**A Foundation for Universalisation in Games**
+**A Foundation for Universalisation in Games** <p><small>Draft available upon request.</p>
 
 [comment]: <> (![drawing](dream_TradingCard.jg))
 
 {{<hideuni>}}
 
-**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+##### Work in Progress
+
+**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))<p><small>Preliminary draft available upon request.</p>
 
 {{<hidevoi>}}
 
-**Robustness to Normative Uncertainty** 
+**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))<p><small>Preliminary draft available upon request.</p>
 
-{{<hidenormative>}}
-
+{{<hidechang>}}
 
 ##### Book Review
 

@@ -19,7 +19,7 @@ googleAnalytics = "G-J54HJ5FRD8"
     info = "" # Author's job title or info.
     description = "Welcome to my website!" # Site description.
     keywords = "" # Site keywords.
-    avatarurl = "profile-min.webp" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "kangaroo.webp" # Contain the path of the optional avatar in the static folder.
 
   favicon_32 = "jackye.jpg"
   favicon_16 = "jackye.jpg"
