@@ -4,20 +4,22 @@
       {{ with .Site.Params.avatarurl }}
       <div class="avatar">
         <img
-          style="border-radius: 15px / 10px"
+          style="border-radius: 10px / 5px"
           src="{{ . | absURL }}"
           alt="avatar"
+          width="5"
+          height="6"
         />
       </div>
       {{ end }}
       <!-- <h1 style="text-align:center"><u>{{ .Site.Params.author }}</u></h1>-->
       <h6 style="text-align: center">{{ .Site.Params.info }}</h6>
+      <p>I am a behavioral economist with interest in theory and experiments.</p>
       <p>
         I am a fourth year PhD student in Economics at
-        <a href="https://www.tse-fr.eu/?lang=en" target="_blank">TSE</a>.
+        <a href="https://www.tse-fr.eu/?lang=en" target="_blank">Toulouse School of Economics</a>.
       </p>
       <p>I was also a 2023 Fellow at the <a href="https://globalprioritiesinstitute.org/" target="_blank">Global Priorities Institute</a></p>
-      <p>I am a behavioral economist with interest in theory and experiments.</p>
     <!--  <p>
         Feel free to check my <a href="./statement/">Research Statement</a> if
         you are interested.

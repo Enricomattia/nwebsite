@@ -8,7 +8,7 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 ---
 
-**A Foundation for Universalisation in Games** <p><small>Draft available upon request.</p>
+**A Foundation for Universalisation in Games**  <p style="font-size:10pt">Draft available upon request.</p>
 
 [comment]: <> (![drawing](dream_TradingCard.jg))
 
@@ -16,11 +16,11 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 ##### Work in Progress
 
-**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))<p><small>Preliminary draft available upon request.</p>
+**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia)) <p style="font-size:10pt">Preliminary draft available upon request.</p>
 
 {{<hidevoi>}}
 
-**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))<p><small>Preliminary draft available upon request.</p>
+**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella)) <p style="font-size:10pt">Preliminary draft available upon request.</p>
 
 {{<hidechang>}}
 
@@ -41,7 +41,6 @@ _Erasmus Journal for Philosophy and Economics_ (2020)
 **Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
 
 {{<hidefreedom>}}
-
 
 ##### Young and Foolish
 
