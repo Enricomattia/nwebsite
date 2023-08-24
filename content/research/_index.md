@@ -8,7 +8,11 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 ---
 
-**A Foundation for Universalisation in Games**  <p style="font-size:10pt">Draft available upon request.</p>
+**A Foundation for Universalisation in Games** 
+
+{{< rawhtml >}}
+<span id="two">[Draft available upon request]</span>
+{{< /rawhtml >}}
 
 [comment]: <> (![drawing](dream_TradingCard.jg))
 
@@ -16,11 +20,21 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 ##### Work in Progress
 
-**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia)) <p style="font-size:10pt">Preliminary draft available upon request.</p>
+---
+
+**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+
+{{< rawhtml >}}
+<span id="two">[Preliminary draft available upon request]</span>
+{{< /rawhtml >}}
 
 {{<hidevoi>}}
 
-**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella)) <p style="font-size:10pt">Preliminary draft available upon request.</p>
+**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+
+{{< rawhtml >}}
+<span id="two">[Preliminary draft available upon request]</span>
+{{< /rawhtml >}}
 
 {{<hidechang>}}
 
