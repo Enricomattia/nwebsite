@@ -30,7 +30,7 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 {{<hidevoi>}}
 
-**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 {{< rawhtml >}}
 <span id="two">[Preliminary draft available upon request]</span>
