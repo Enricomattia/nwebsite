@@ -43,7 +43,7 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 ---
 
 [**Review of Ivan Moscati’s Measuring Utility: From the Marginal Revolution to Behavioral Economics**](https://ejpe.org/journal/article/view/469/337)
-(with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+(with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 _Erasmus Journal for Philosophy and Economics_ (2020)
 
@@ -52,7 +52,7 @@ _Erasmus Journal for Philosophy and Economics_ (2020)
 
 ---
 
-**Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.eur.nl/people/annalisa-costella))
+**Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 {{<hidefreedom>}}
 
