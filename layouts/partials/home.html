@@ -1,6 +1,6 @@
-
 <section class="container centered">
-  <div class="about">
+    <div class="row">
+    <div class="about">
       <!-- {{ with .Site.Params.avatarurl }}
       <div class="avatar">
         <figure>
@@ -15,41 +15,38 @@
       </div>
       {{ end }}
       <!-- <h1 style="text-align:center"><u>{{ .Site.Params.author }}</u></h1>-->
-      <br>
-      <figure>
-      <img 
-      class="img-fluid"
-      style="border-radius: 10px / 5px"
-      src="kangaroo.webp" 
-      alt="Profile"
-      width= 35%
-      height= 35%
-      >
-      <figcaption>A kangaroo escaping from me talking about game theory</figcaption>
-    </figure>
-      <h6 style="text-align: center">{{ .Site.Params.info }}</h6>
-      <p>I am a behavioral economist with interest in theory and experiments.</p>
-      <p>
-        I am a fourth year PhD student in Economics at
-        <a href="https://www.tse-fr.eu/?lang=en" target="_blank">Toulouse School of Economics</a>.
-      </p>
-      <p>I was also a 2023 Fellow at the <a href="https://globalprioritiesinstitute.org/" target="_blank">Global Priorities Institute</a>.</p>
-    <!--  <p>
+      <div class="column">
+        <figure>
+          <img class="img-fluid" style="border-radius: 10px / 5px" src="kangaroo.webp" alt="Profile" width=90%
+            height=90%>
+          <figcaption>A kangaroo escaping from me talking about game theory</figcaption>
+        </figure>
+        <h6 style="text-align: center">{{ .Site.Params.info }}</h6>
+      </div> 
+      <div class="column">
+        <p>I am a behavioral economist with interest in theory and experiments.</p>
+        <p>
+          I am a fourth year PhD student in Economics at
+          <a href="https://www.tse-fr.eu/?lang=en" target="_blank">Toulouse School of Economics</a>.
+        </p>
+        <p>I was also a 2023 Fellow at the <a href="https://globalprioritiesinstitute.org/" target="_blank">Global
+            Priorities Institute</a>.</p>
+        <!--  <p>
         Feel free to check my <a href="./statement/">Research Statement</a> if
         you are interested.
       </p>  -->
-     <!-- <p>
+        <!-- <p>
         A copy of my CV is
         <a
           href="https://drive.google.com/file/d/16vEUj2dO5tyEzVxj-XBWeLct9q5iuXV2/view?usp=sharing"
           >here</a
         >.
       </p> -->
-      <p>
-        Feel free to contact me at <b>mattia.salonia@tse-fr</b> or
-        <b>mattia.salonia1@gmail.com</b>.
-      </p>
-    <!--  {{ with .Site.Params.social }} {{ range sort . "weight"}}
+        <p>
+          Feel free to contact me at <b>mattia.salonia@tse-fr</b> or
+          <b>mattia.salonia1@gmail.com</b>.
+        </p>
+        <!--  {{ with .Site.Params.social }} {{ range sort . "weight"}}
       <a
         class="logo"
         href="{{ .url }}"
@@ -67,6 +64,8 @@
         {{ else }} {{ .name }} {{ end }}
       </a>
       {{ end }} {{ end }} -->
+      </div>
     </div>
-  </div>
+   </div>
+    </div> 
 </section>
