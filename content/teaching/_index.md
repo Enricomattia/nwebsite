@@ -10,12 +10,9 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 There could be mistakes, use the official solutions as a reference! Feel free to point out any typos, mistakes, or answers that are not clear. If you want you can check the [plan](../TDs/Plan_20232024.html) for the lectures. Solutions will come out lecture by lecture. If you obtained solutions from other sources, don't consult them! You will do way better on the exam if you attempt to do the exercises yourself before the lecture.
 
+[TD1 - (Online view)](../TDs/TD1_new.html) [(Pdf Download)](https://drive.google.com/file/d/1QLD9sNkWYlZ_4cOVKcgUfBUNnKC1qVNu/view?usp=sharing)
 
-Coming soon...
-
-<!-- [TD1 - (Online view)](../post/TD1) [(Pdf Download)](https://drive.google.com/file/d/1PX_IWlARsWwLeQpC5L6Gp6R4LquJHs-9/view?usp=sharing)
-
-[TD2 - (Online view)](../TDs/TD2.html) [(Pdf Download)](https://drive.google.com/file/d/1-GBxNWOLx_mruENbpD6uu6PQ6figfa-G/view?usp=sharing)
+<!-- [TD2 - (Online view)](../TDs/TD2.html) [(Pdf Download)](https://drive.google.com/file/d/1-GBxNWOLx_mruENbpD6uu6PQ6figfa-G/view?usp=sharing)
 
 [TD3 - (Online view)](../TDs/TD3.html) [(Pdf Download)](https://drive.google.com/file/d/1qnVCYnU4JLgzvRCK0sT9-C7g9DqoAhW0/view?usp=sharing)
 
