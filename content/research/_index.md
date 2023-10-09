@@ -8,10 +8,11 @@ Here you can find a list of my ongoing work! [Here](https://enricomattiasalonia.
 
 ---
 
-**A Foundation for Universalisation in Games** 
+
+[**A Foundation for Universalisation in Games**](https://drive.google.com/file/d/1EakcrZC84-_z0vaoEisZ22nGmOHGivPL/view?usp=sharing)
 
 {{< rawhtml >}}
-<span id="two">[Draft available upon request]</span>
+<span id="two"></span>
 {{< /rawhtml >}}
 
 [comment]: <> (![drawing](dream_TradingCard.jg))
