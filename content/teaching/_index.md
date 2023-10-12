@@ -16,9 +16,9 @@ There could be mistakes, use the official solutions as a reference! Feel free to
 
 [TD3 - (Online view)](../TDs/TD3_new.html) [(Pdf Download)](https://drive.google.com/file/d/19DfRzbY7gLqQ86UuwygGf5pFoqtU22ta/view?usp=sharing)
 
-<!--  [TD4 - (Online view)](../TDs/TD4.html) [(Pdf Download)](https://drive.google.com/file/d/12fUC9pHw9REIkOBJdka6DqoKBZ38Sjlo/view?usp=sharing)
+[TD4 - (Online view)](../TDs/TD4_new.html) [(Pdf Download)](https://drive.google.com/file/d/19bfcxd4-VgBrLCkcOHTZgpXwYQ1rsOuq/view?usp=sharing)
 
-[TD5 - (Online view)](../TDs/TD5.html) [(Pdf Download)](https://drive.google.com/file/d/1E2Nse5W2-wEB_zMGsb-H8IbMClY6wpWT/view?usp=sharing)
+<!--  [TD5 - (Online view)](../TDs/TD5.html) [(Pdf Download)](https://drive.google.com/file/d/1E2Nse5W2-wEB_zMGsb-H8IbMClY6wpWT/view?usp=sharing)
 
 [TD6 - (Online view)](../TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing)
 
