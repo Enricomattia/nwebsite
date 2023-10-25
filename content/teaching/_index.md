@@ -20,9 +20,9 @@ There could be mistakes, use the official solutions as a reference! Feel free to
 
 [TD5 - (Online view)](../TDs/TD5_new.html) [(Pdf Download)](https://drive.google.com/file/d/1f-C6Qw-6zvCzkF5J-AuICqOngknbLv-t/view?usp=sharing)
 
-<!--   [TD6 - (Online view)](../TDs/TD6.html) [(Pdf Download)](https://drive.google.com/file/d/1lwVx22M_MrUH3IMgBUZVGScUEo9sdB03/view?usp=sharing)
+[TD6 - (Online view)](../TDs/TD6_new.html) [(Pdf Download)](https://drive.google.com/file/d/1aSapf1hQ8jAMNdxUj2YGtVAOH2v75qVp/view?usp=sharing)
 
-[TD7 - (Online view)](../TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
+<!--   [TD7 - (Online view)](../TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
 
 [TD8 - (Online view)](../TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
 
@@ -42,11 +42,11 @@ If you click on the link below, you will find a code that solves and plots the S
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/HEAD?filepath=solow-swan.ipynb)
 
-<!-- Here you can find the solutions to the 2020 and 2019 midterms. However, I strongly suggest you focus on the class and TD material before attempting it!
+Here you can find the solutions to the 2020 and 2019 midterms. However, I strongly suggest you focus on the class and TD material before attempting it!
 
 [Midterm 2020](https://drive.google.com/file/d/1VppGSs9ZSFqEMvSc339n2Ogz0L8Dc9bz/view?usp=sharing)
 
-[Baby boom](https://drive.google.com/file/d/1rHf8e_8WRqNfS-1QuBd-d1_GCsmbRszR/view?usp=sharing) -->
+[Baby boom](https://drive.google.com/file/d/1rHf8e_8WRqNfS-1QuBd-d1_GCsmbRszR/view?usp=sharing)
 
 
 <!-- Here you can find the courses I teach/taught with the material.
