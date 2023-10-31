@@ -2,47 +2,53 @@
   <h3>Enrico Mattia Salonia</h3>
 </section> -->
 <nav class="navigation">
+
   <head>
     {{ template "_internal/google_analytics.html" . }}
     {{ template "_internal/google_analytics_async.html" . }}
     <meta name="google-site-verification" content="Xas-5CcSHsnPC-JTqH3gWpFvchX2fUAvvmw1hDpIk6c" />
     <title>Enrico Mattia Salonia</title>
-  </head>  
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+
+  </head>
   <section class="container">
     <a class="navigation-title" href="{{ .Site.BaseURL | relLangURL }}">
       {{ .Site.Title }}
     </a>
     {{ if or .Site.Menus.main .Site.IsMultiLingual }}
-      <input type="checkbox" id="menu-toggle" />
-      <label class="menu-button float-right" for="menu-toggle">
-        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
-      </label>
-      <ul class="navigation-list">
-        {{ with .Site.Menus.main}}
-          {{ range sort . }}
-            <li class="navigation-item">
-              <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        {{ end }}
-        {{ if .Site.IsMultiLingual }}
-          {{ $node := . }}
-          {{ .Scratch.Set "separator" true }}
-          {{ range (default .Site.Home.AllTranslations .Translations) }}
-            {{ if ne $.Site.Language .Language }}
-              {{ if $node.Scratch.Get "separator" }}
-                <li class="navigation-item menu-separator">
-                  <span>|</span>
-                </li>
-                {{ $node.Scratch.Set "separator" false }}
-              {{ end }}
-              <li class="navigation-item">
-                <a href="{{ .Permalink }}">{{ .Language.LanguageName | emojify }}</a>
-              </li>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </ul>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle">
+      <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+    </label>
+    <ul class="navigation-list">
+      {{ with .Site.Menus.main}}
+      {{ range sort . }}
+      <li class="navigation-item">
+        <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+      {{ end }}
+      {{ if .Site.IsMultiLingual }}
+      {{ $node := . }}
+      {{ .Scratch.Set "separator" true }}
+      {{ range (default .Site.Home.AllTranslations .Translations) }}
+      {{ if ne $.Site.Language .Language }}
+      {{ if $node.Scratch.Get "separator" }}
+      <li class="navigation-item menu-separator">
+        <span>|</span>
+      </li>
+      {{ $node.Scratch.Set "separator" false }}
+      {{ end }}
+      <li class="navigation-item">
+        <a href="{{ .Permalink }}">{{ .Language.LanguageName | emojify }}</a>
+      </li>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </ul>
     {{ end }}
   </section>
   <hr>
