@@ -22,9 +22,9 @@ There could be mistakes, use the official solutions as a reference! Feel free to
 
 [TD6 - (Online view)](../TDs/TD6_new.html) [(Pdf Download)](https://drive.google.com/file/d/1aSapf1hQ8jAMNdxUj2YGtVAOH2v75qVp/view?usp=sharing)
 
-<!--   [TD7 - (Online view)](../TDs/TD7.html) [(Pdf Download)](https://drive.google.com/file/d/15PQcuFpSTgNxnaf3Ss1d-pMY2j1KzG1G/view?usp=sharing)
+[TD7 - (Online view)](../TDs/TD7_new.html) [(Pdf Download)](https://drive.google.com/file/d/1wd0I0VdWbiYpgOMlZwbnzUi1RUWl_jqh/view?usp=sharing)
 
-[TD8 - (Online view)](../TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
+<!-- [TD8 - (Online view)](../TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
 
 [TD9 - (Online view)](../TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
 
