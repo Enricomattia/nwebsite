@@ -13,7 +13,7 @@ Here you can find a list of my ongoing work!
 ---
 
 
-[**A Foundation for Universalisation in Games**](https://drive.google.com/file/d/1EakcrZC84-_z0vaoEisZ22nGmOHGivPL/view?usp=sharing)
+[**A Foundation for Universalisation in Games**](../research/docs/draft_universalisation.pdf)
 
 {{< rawhtml >}}
 <span id="two"></span>
