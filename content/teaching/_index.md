@@ -8,7 +8,7 @@ Welcome to the class website! Here I will post the material I produce for the co
 
 ### Lectures
 
-There could be mistakes, use the official solutions as a reference! Feel free to point out any typos, mistakes, or answers that are not clear. If you want you can check the [plan](../TDs/Plan_20232024.html) (NEW 31/10/2023!) for the lectures. Solutions will come out lecture by lecture. If you obtained solutions from other sources, don't consult them! You will do way better on the exam if you attempt to do the exercises yourself before the lecture.
+There could be mistakes, use the official solutions as a reference! Feel free to point out any typos, mistakes, or answers that are not clear. If you want you can check the [plan](../TDs/Plan_20232024.html) (NEW 15/11/2023!) for the lectures. Solutions will come out lecture by lecture. If you obtained solutions from other sources, don't consult them! You will do way better on the exam if you attempt to do the exercises yourself before the lecture.
 
 [TD1 - (Online view)](../TDs/TD1_new.html) [(Pdf Download)](https://drive.google.com/file/d/1QLD9sNkWYlZ_4cOVKcgUfBUNnKC1qVNu/view?usp=sharing)
 
@@ -24,9 +24,9 @@ There could be mistakes, use the official solutions as a reference! Feel free to
 
 [TD7 - (Online view)](../TDs/TD7_new.html) [(Pdf Download)](https://drive.google.com/file/d/1wd0I0VdWbiYpgOMlZwbnzUi1RUWl_jqh/view?usp=sharing)
 
-<!-- [TD8 - (Online view)](../TDs/TD8.html) [(Pdf Download)](https://drive.google.com/file/d/1ac8aE9gc4fEgxinmhFM94PNgvg7AIiR-/view?usp=sharing)
+[TD8 - (Online view)](../TDs/TD8_new.html) [(Pdf Download)](https://drive.google.com/file/d/1ePqEfj63zhQ-oS-WEcD5lCPw_ZTGvfWh/view?usp=drive_link)
 
-[TD9 - (Online view)](../TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
+<!-- [TD9 - (Online view)](../TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
 
 [TD10 - (Online view)](../TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
 
