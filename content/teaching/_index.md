@@ -26,9 +26,11 @@ There could be mistakes, use the official solutions as a reference! Feel free to
 
 [TD8 - (Online view)](../TDs/TD8_new.html) [(Pdf Download)](https://drive.google.com/file/d/1ePqEfj63zhQ-oS-WEcD5lCPw_ZTGvfWh/view?usp=drive_link)
 
-<!-- [TD9 - (Online view)](../TDs/TD9.html) [(Pdf Download)](https://drive.google.com/file/d/1aEmIXvm14fgQm1RUhkTpj0UuGjGOLilh/view?usp=sharing)
+[TD9 - (Online view)](../TDs/TD9_new.html) [(Pdf Download)](https://drive.google.com/file/d/1xAyKQgJHwSKFePWyJtyCEfkeXByjrmBo/view?usp=sharing)
 
-[TD10 - (Online view)](../TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
+[A Solarian Malthus Model - (Online view)](../TDs/SolariaSOL.html) [Pdf Download](https://drive.google.com/file/d/1I2DMulWABztOxHOKLuas-n96Ov5NTngb/view?usp=share_link)
+
+<!-- [TD10 - (Online view)](../TDs/TD10.html) [(Pdf Download)](https://drive.google.com/file/d/1wg9_fN_dhlrpOKmFefObJSoG8cpOK3xs/view?usp=sharing)
 
 [Ex 4 - TD 4 - (Online view)](../TDs/Ex4.html) [(Pdf Download)](https://drive.google.com/file/d/1k1z-DoNZ1OsmwrVrfeY09kBye75mAb2r/view?usp=sharing)
 
