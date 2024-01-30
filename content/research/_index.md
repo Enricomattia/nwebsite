@@ -53,6 +53,8 @@ Here you can find a list of my ongoing work!
 _Erasmus Journal for Philosophy and Economics_ (2020)
 
 
+<!-- 
+
 ##### Old and Dormant
 
 ---
@@ -60,6 +62,7 @@ _Erasmus Journal for Philosophy and Economics_ (2020)
 **Redistribution of Freedom: A formal approach** (with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 {{<hidefreedom>}}
+
 
 ##### Young and Foolish
 
@@ -69,4 +72,4 @@ When I was younger (and more foolish) I wrote a couple of pieces for various rea
 
 [**Magic the Gathering: economic analysis of the market of a collectible card game**](https://drive.google.com/file/d/15yPA-a-yTn5jF90XFUiu9AZ7T88ubzlS/view?usp=sharing)
 
-[**Praxeology, Psychohistory, Economics**](https://drive.google.com/file/d/1wC50V4HI6mnFPW1gmyGW6v0mHXF-Tde_/view?usp=sharing)
+[**Praxeology, Psychohistory, Economics**](https://drive.google.com/file/d/1wC50V4HI6mnFPW1gmyGW6v0mHXF-Tde_/view?usp=sharing) -->
