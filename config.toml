@@ -66,4 +66,4 @@ googleAnalytics = "G-J54HJ5FRD8"
 [[menu.main]]
     name = "CV"
     weight = 3
-    url = "https://drive.google.com/file/d/16vEUj2dO5tyEzVxj-XBWeLct9q5iuXV2/view"
+    url = "static/cv.pdf"
