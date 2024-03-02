@@ -13,7 +13,7 @@ Here you can find a list of my ongoing work!
 ---
 
 
-[**A Foundation for Universalisation in Games**](../research/docs/draft_universalisation.pdf)
+[_**A Foundation for Universalisation in Games**_](../research/docs/draft_universalisation.pdf)
 
 {{< rawhtml >}}
 <span id="two"></span>
@@ -23,35 +23,40 @@ Here you can find a list of my ongoing work!
 
 {{<hideuni>}}
 
-##### Work in Progress
+### Work in Progress
 
 ---
 
-**Can Pessimistic Beliefs Threaten Redistribution?** (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+_**Can Pessimistic Beliefs Threaten Redistribution?**_ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
 
 {{< rawhtml >}}
-<span id="two">[Preliminary draft available upon request]</span>
+<span id="two">Preliminary draft available upon request</span>
 {{< /rawhtml >}}
 
 {{<hidevoi>}}
 
-**Unchaining Chang's Chaining: Either Irrelevant or False** (with [Annalisa Costella](https://www.annalisacostella.com/home))
+_**Belief-Dependent Motivations and Bayesian Updating**_
+
+### For Fun (?)
+
+---
+
+_**Unchaining Chang's Chaining: Either Irrelevant or False**_ (with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 {{< rawhtml >}}
-<span id="two">[Preliminary draft available upon request]</span>
+<span id="two">Preliminary draft available upon request</span>
 {{< /rawhtml >}}
 
 {{<hidechang>}}
 
-##### Book Review
+### Book Review
 
 ---
 
-[**Review of Ivan Moscati’s Measuring Utility: From the Marginal Revolution to Behavioral Economics**](https://ejpe.org/journal/article/view/469/337)
+[_**Review of Ivan Moscati’s Measuring Utility: From the Marginal Revolution to Behavioral Economics**_](https://ejpe.org/journal/article/view/469/337)
 (with [Annalisa Costella](https://www.annalisacostella.com/home))
 
 _Erasmus Journal for Philosophy and Economics_ (2020)
-
 
 <!-- 
 

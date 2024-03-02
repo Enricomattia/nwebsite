@@ -67,3 +67,7 @@ googleAnalytics = "G-J54HJ5FRD8"
     name = "CV"
     weight = 3
     url = "/cv.pdf"
+#[[menu.main]]
+#    name = "Miscellaneous"
+#    weight = 4
+#    url = "quotes"
