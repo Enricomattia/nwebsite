@@ -1,7 +1,7 @@
 ---
 title: "Measurement"
 date: 2024-03-07T21:56:08+02:00
-draft: false
+draft: true
 math: true
 #tags: ["Decision"]
 ---
