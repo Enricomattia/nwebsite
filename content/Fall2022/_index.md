@@ -1,6 +1,6 @@
 ---
 title: "Topics in Macro - Fall 2022"
-draft: false
+draft: true
 ---
 
 Welcome to the class website! Here I will post the material I produce for the course, namely solutions to exercises and maybe some extras that could be useful. Contact me if you have any question!

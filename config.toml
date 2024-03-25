@@ -59,15 +59,11 @@ googleAnalytics = "G-J54HJ5FRD8"
     name = "Teaching"
     weight = 2
     url = "teaching"
-#[[menu.main]]
-#    name = "Blog"
-#  weight = 3
-#    url = "post"
 [[menu.main]]
     name = "CV"
     weight = 3
     url = "/cv.pdf"
 #[[menu.main]]
-#    name = "Miscellaneous"
+#    name = "Miscellanea"
 #    weight = 4
-#    url = "quotes"
+#    url = "miscellanea"

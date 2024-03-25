@@ -1,7 +1,7 @@
 ---
 title: "Research Statement"
 date: 2021-05-20T22:23:00+02:00
-draft: false
+draft: true
 ---
 
 Coming Soon!

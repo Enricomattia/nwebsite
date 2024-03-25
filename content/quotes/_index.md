@@ -4,7 +4,7 @@ date: 2021-05-13T19:03:08+02:00
 draft: false
 ---
 
-I sometimes find nice quotes on random topics. I collect these here, in no particular order, with or without commentary. Reach out if you want to discuss any of them!
+I sometimes find nice quotes on random topics from books, songs or other media. I collect these here, in no particular order, with or without commentary. Reach out if you want to discuss any of them!
 
 ---
 
@@ -31,6 +31,14 @@ Nice quote for a paper arguing that dynamic consistency is necessary for rationa
 **Debreu, G. (1959). Theory of value: An axiomatic analysis of economic equilibrium (Vol. 17). Yale University Press. (p. x)**
 
 I wish it were common to explicitly distinguish the logical results of a paper from their interpretation. I feel that by collapsing these two we step into a strange ontological paradox in which the empirical counterpart __is__ the artificial construct of the theory. Maybe this would only lengthen papers (e.g., "in the language of the theory" if marginal costs increase then...).
+
+---
+
+> It is our choices, Harry, that show what we truly are, far more than our abilities.
+
+**Rowling, J. K. (2016). Harry Potter and the Chamber of Secrets (Vol. 2). Bloomsbury publishing. (p. )**
+
+Albus Dumbledore adheres to revealed preference theory.
 
 ---
 

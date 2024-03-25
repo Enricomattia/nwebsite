@@ -14,7 +14,10 @@
     {{ range .Paginator.Pages }}
     <li>
       <span class="dates">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+      <a class="posts" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a><span class="filter" style="font-size:14px; font-style:italic"> #{{ .Params.tags}}</span>
+      <!-- TO HAVE TAGS WITH LINKS
       <a class="posts" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a><span class="filter" style="font-size:14px; font-style:italic"> <a href="http://localhost:1313/tags/">#{{ .Params.tags}}</a></span>
+      -->
     </li>
     {{ end }}
   </ul>
