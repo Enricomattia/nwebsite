@@ -39,11 +39,11 @@ googleAnalytics = "G-J54HJ5FRD8"
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+#[taxonomies]
+  #category = "categories"
+  #series = "series"
+  #tag = "tags"
+  #author = "authors"
 
 [[params.social]]
   name = "Github"
