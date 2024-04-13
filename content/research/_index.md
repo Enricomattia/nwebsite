@@ -4,14 +4,10 @@ date: 2021-05-13T19:03:08+02:00
 draft: false
 ---
 
-Here you can find a list of my ongoing work!
-
-
-
-<!--  [Here](https://enricomattiasalonia.com/statement/) you can find my research statement. -->
 
 ---
 
+<!--  [Here](https://enricomattiasalonia.com/statement/) you can find my research statement. -->
 
 [_**A Foundation for Universalisation in Games**_](../research/docs/draft_universalisation.pdf)
 
@@ -26,25 +22,27 @@ Here you can find a list of my ongoing work!
 ### Work in Progress
 
 ---
+{{< rawhtml >}}
+<span id="one">Motivated Belief Updating</span> <span id="two">[Preliminary draft available upon request]</span>
+{{< /rawhtml >}}
 
-_**Can Pessimistic Beliefs Threaten Redistribution?**_ (with [Michele Bisceglia](https://www.tse-fr.eu/fr/people/michele-bisceglia))
+{{<hidebelief>}}
 
 {{< rawhtml >}}
-<span id="two">Preliminary draft available upon request</span>
+<span id="one">Can Pessimistic Beliefs Threaten Redistribution?</span> <span id="two">(with <a href="https://www.tse-fr.eu/fr/people/michele-bisceglia" style="color: #1567C0;">Michele Bisceglia</a>) [Preliminary draft available upon request]</span>
 {{< /rawhtml >}}
 
 {{<hidevoi>}}
-
-_**Belief-Dependent Motivations and Bayesian Updating**_
 
 ### For Fun (?)
 
 ---
 
-_**Unchaining Chang's Chaining: Either Irrelevant or False**_ (with [Annalisa Costella](https://www.annalisacostella.com/home))
+I have some work in areas in the neighborhood of economics, but not quite there. You can find it here.
+
 
 {{< rawhtml >}}
-<span id="two">Preliminary draft available upon request</span>
+<span id="one">Unchaining Chang's Chaining: Either Irrelevant or False</span> <span id="two">(with <a href="https://www.annalisacostella.com/home" style="color: #1567C0;">Annalisa Costella</a>) [Draft available upon request]</span>
 {{< /rawhtml >}}
 
 {{<hidechang>}}

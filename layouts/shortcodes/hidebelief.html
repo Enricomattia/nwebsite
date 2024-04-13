@@ -1,0 +1,24 @@
+<small>
+    <p><em onclick="myFunction_bel()" id="abstract_bel" style="cursor: pointer">→ Abstract</em>
+  </p></small>
+
+<small>
+  <div id="myDIV_bel" style="display: none; text-align: justify; text-justify: inter-word">
+    <p>	This paper develops a theory of subjective motivated belief updating. Behavior in a dynamic decision problem reveals that the agent anticipates she will distort her beliefs to satisfy her belief-dependent preferences. Assumptions on ex-ante choice are provided to identify preferences, prior beliefs and departures from Bayesian updating. The theory rationalises excessive trading, the ostrich effect and moral wiggle room.
+    </p>
+  </div>
+</small>
+
+<script type="text/javascript">
+  function myFunction_bel() {
+    var x = document.getElementById("myDIV_bel");
+    var y = document.getElementById("abstract_bel");
+    if (x.style.display === "none") {
+      y.innerHTML = "↓ Abstract";
+      x.style.display = "block";
+    } else {
+      y.innerHTML = "→ Abstract";
+      x.style.display = "none";
+    }
+  }
+</script>
