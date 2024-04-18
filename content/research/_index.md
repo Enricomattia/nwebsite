@@ -42,7 +42,7 @@ I have some work in areas in the neighborhood of economics, but not quite there.
 
 
 {{< rawhtml >}}
-<span id="one">Unchaining Chang's Chaining: Either Irrelevant or False</span> <span id="two">(with <a href="https://www.annalisacostella.com/home" style="color: #1567C0;">Annalisa Costella</a>) [Draft available upon request]</span>
+<span id="one">The Chaining Argument Unchained</span> <span id="two">(with <a href="https://www.annalisacostella.com/home" style="color: #1567C0;">Annalisa Costella</a>) [Draft available upon request]</span>
 {{< /rawhtml >}}
 
 {{<hidechang>}}
