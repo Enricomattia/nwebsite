@@ -4,12 +4,15 @@ date: 2021-05-13T19:03:08+02:00
 draft: false
 ---
 
+<!--  [Here](https://enricomattiasalonia.com/statement/) you can find my research statement. -->
+
+### Work in Progress
 
 ---
 
-<!--  [Here](https://enricomattiasalonia.com/statement/) you can find my research statement. -->
-
-[_**A Foundation for Universalisation in Games**_](../research/docs/draft_universalisation.pdf)
+{{< rawhtml >}}
+<span id="one"><a href="../research/docs/draft_universalisation.pdf" style="color: #1567C0;"><b>A Foundation for Universalisation in Games</b></a></span> <span id="two">[New version coming soon!]</span>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <span id="two"></span>
@@ -19,11 +22,9 @@ draft: false
 
 {{<hideuni>}}
 
-### Work in Progress
 
----
 {{< rawhtml >}}
-<span id="one">Motivated Belief Updating</span> <span id="two">[Preliminary draft available upon request]</span>
+<span id="one">Belief-dependent Motivations and Belief Updating</span> <span id="two">[Preliminary draft available upon request]</span>
 {{< /rawhtml >}}
 
 {{<hidebelief>}}
@@ -34,7 +35,7 @@ draft: false
 
 {{<hidevoi>}}
 
-### For Fun (?)
+### Other Work
 
 ---
 
